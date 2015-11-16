@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>state.qml</file>
+        <file>colorMaker.js</file>
+        <file>Statechange.qml</file>
+        <file>transition.qml</file>
+        <file>link_text.qml</file>
+        <file>reparent.qml</file>
+        <file>state_text.qml</file>
+        <file>stateText.qml</file>
+        <file>bubbleshot.qml</file>
+        <file>bubbles.qml</file>
+    </qresource>
+</RCC>
